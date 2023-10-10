@@ -43,7 +43,7 @@ Die Arbeit mit dem Atem beginnt genau dort, wo Du Dich gerade befindest. Wie sol
 
 ## Informationen
 
-[Nervensystem](Nervensystem & co.)
+[[Nervensystem]]
 
 [[Atemtechniken]] & [[Körperübungen]]
 Regulation & [[Nervensystem]]
