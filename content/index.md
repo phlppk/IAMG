@@ -1,8 +1,8 @@
 ---
-title: Integratives Atem Manifest
+title: Integratives Atem Mobile
 draft: false
 tags:
-  - atem 
+  - atem
   - bewusstsein
   - praxis
   - theorie
@@ -10,11 +10,10 @@ tags:
 ---
 
 ## Geborgenheit & Autonomie im Atemfluss
+Geburt & Anteile Integrierte 
 
-Ich atme, also bin ich.
-Mein Atem ist Spiegel der Seele.
-Der Atem hält mich im hier & jetzt.
-Der Atem ist die direkte Verbindung ins Nervensystem
+Der Atem verbindet mich mit meinem Nervensystem.
+
 
 ## Angebote
 * [[Luft & Liebe Flatrate]] - Dienstags & Donnerstags für 80 € je Monat.
