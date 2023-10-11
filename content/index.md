@@ -3,6 +3,7 @@ title: Integratives Atem Manifest
 draft: false
 tags: []
 ---
+![[bg.jpeg]]
 ## Geborgenheit & Autonomie im Atemfluss
 🌬️ Entdecke die Magie des Atmens! Auf Deiner Atem.Reise erforschst Du die harmonische Verbindung zwischen innerem Frieden und persönlicher Freiheit, liebevoll begleitet von Deinem Atem. 😌💪
 
