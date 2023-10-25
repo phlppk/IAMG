@@ -1,4 +1,4 @@
-![[https://www.youtube.com/watch?v=Is2Lip1cJUc]]
+![](https://www.youtube.com/watch?v=Is2Lip1cJUc)
 
 🌟 Einzigartige Einzelsitzung: Entdecke deine innere Balance und entfalte dein volles Potential! 🌟
 
