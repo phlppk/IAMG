@@ -1,0 +1,5 @@
+Unser Gehirn ist ein faszinierendes Organ, das mit einer Vielzahl von Neurotransmittern arbeitet. Diese chemischen Botenstoffe sind verantwortlich für die Übertragung von Informationen zwischen Nervenzellen und beeinflussen unsere Stimmung, unser Verhalten und unsere körperlichen Funktionen.
+
+**Neurotransmitter - Die Boten des Gehirns**
+- **Dopamin:** Dopamin ist ein Neurotransmitter, der oft mit Belohnung, Motivation und Freude in Verbindung gebracht wird. In der Integrativen Atemarbeit lernen wir, wie bewusste Atmung und Atemtechniken die Freisetzung von Dopamin stimulieren können. Dies kann dazu beitragen, ein Gefühl der Zufriedenheit, des Erfolgs und der Motivation zu fördern, was unser Selbstbewusstsein und unsere Selbstwirksamkeit stärken kann. Ganz aus eigener Kraft.
+- **Serotonin:** Serotonin ist ein weiterer wichtiger Neurotransmitter, der unsere Stimmung, das Schlafverhalten und das allgemeine Wohlbefinden beeinflusst. Die Integrative Atemarbeit zeigt uns, wie bewusste Atmung und Atemtechniken die Produktion von Serotonin erhöhen können. Dies kann dazu beitragen, Stress abzubauen, die Stimmung zu heben und unser allgemeines Wohlbefinden zu steigern.
