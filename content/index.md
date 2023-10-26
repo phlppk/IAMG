@@ -6,9 +6,7 @@ tags: []
 ![[bg.jpeg]]
 ## I AM GAIA steh für...
 
-> [!info] I AM GAIA steht für...
-> ### Integratives Atem-Manifest
-> ### Geborgenheit & Autonomie im Atemfluss
+> [!info] Integratives Atem-Manifest - Geborgenheit & Autonomie im Atemfluss
 > 🌬️ Entdecke die Magie des Atmens! Auf Deiner Atem.Reise erforschst Du die harmonische Balance zwischen Deinem innerem Frieden und Deiner sich frei entfaltenden Lebenskraft, liebevoll begleitet & verbunden von Deinem Atem. 😌💪 
 > 
 > Erfahre, wie Du Dir mit Deinem Atemraum eine solide Grundlage aus Geborgenheit, Sicherheit und Zugehörigkeit schaffst. Sei es in Beziehung oder auf Deinem Weg zur Selbstverwirklichung. Gleichzeitig entdeckst Du die Kraft Deiner Autonomie - die Freiheit, Dein Leben und Deine Entscheidungen ganz aus Dir selbst heraus zu verantworten.
@@ -19,7 +17,6 @@ tags: []
 > Unser Ziel ist es die Balance zwischen Geborgenheit und Autonomie im Atem zu finden, zu erforschen, zu ergründen und zu entwickeln um ein noch erfüllteres Leben zu führen und harmonischere Beziehungen zu schaffen.
 > 
 > Tauche ein in Dein [[Bewusstsein]] und lass Dich von der Weisheit Deines Atems inspirieren! 💨✨
-
 
 ## Angebote
 * [[Luft & Liebe Flatrate]] - Dienstags online & Donnerstags Jurte für 80 € im Monat.
