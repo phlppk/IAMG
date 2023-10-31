@@ -4,6 +4,28 @@ draft: false
 tags: []
 ---
 ![[bg.jpeg]]
+# Index
+[[Nervensystem]]
+[[Realität]]
+[[Atemtechniken/index|Atemtechniken]]
+[[Atem & Pause]]
+[[Körperübungen]]
+
+## Angebote
+* [[Luft & Liebe Flatrate]] - Dienstags online & Donnerstags Jurte für 80 € im Monat.
+* [[Atem & Pause]] - Online-Sitzungen Di - Do - Fr jeweils am Vor- & Nachmittag
+* [[Wochenbett]] - 9 Tages Intensivseminar Anfang 2024
+* Einzeltermine in der Jurte - 180 Minuten = 350€
+* Vorträge, Gruppen-Workshops, Persönliche Begleitung [auf Anfrage](https://koehler-philipp.der/#kontakt)
+## Informationen (wip)
+[[Das Rad neuerfinden]]
+[[Ich-Konzept]]
+[[Nervensystemregulation]]
+[[Nervensystem]] [[Atemtechniken]] & [[Körperübungen]]
+Regulation & [[Nervensystem]]
+[[Vagusnerv]] & Dorsaler Shutdown
+[[Melatonin]] & [[Morgenroutine]]
+[[Oxitozin]], [[Dopamin]], [[Serotonin]]
 ## I AM GAIA steh für...
 
 > [!info] Integratives Atem-Manifest - Geborgenheit & Autonomie im Atemfluss
@@ -17,20 +39,6 @@ tags: []
 > Unser Ziel ist es die Balance zwischen Geborgenheit und Autonomie im Atem zu finden, zu erforschen, zu ergründen und zu entwickeln um ein noch erfüllteres Leben zu führen und harmonischere Beziehungen zu schaffen.
 > 
 > Tauche ein in Dein [[Bewusstsein]] und lass Dich von der Weisheit Deines Atems inspirieren! 💨✨
-
-## Angebote
-* [[Luft & Liebe Flatrate]] - Dienstags online & Donnerstags Jurte für 80 € im Monat.
-* [[Atem & Pause]] - Online-Sitzungen Di - Do - Fr jeweils am Vor- & Nachmittag
-* [[Wochenbett]] - 9 Tages Intensivseminar Anfang 2024
-* Einzeltermine in der Jurte - 180 Minuten = 350€
-* Vorträge, Gruppen-Workshops, Persönliche Begleitung [auf Anfrage](https://koehler-philipp.der/#kontakt)
-## Informationen
-[[Nervensystemregulation]]
-[[Nervensystem]] [[Atemtechniken]] & [[Körperübungen]]
-Regulation & [[Nervensystem]]
-[[Vagusnerv]] & Dorsaler Shutdown
-[[Melatonin]] & [[Morgenroutine]]
-[[Oxitozin]], [[Dopamin]], [[Serotonin]]
 ## [[Aufklärung]]
 tetanie, hyperventilation
 adhs, stress

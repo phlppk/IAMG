@@ -1,5 +1,0 @@
-**Hormone - Die Botschafter des Körpers**
-Das endokrine System unseres Körpers produziert eine Vielzahl von Hormonen, die unseren Körper und unsere Gefühle beeinflussen.
-
-- **Oxytocin:** Oxytocin, oft als "Liebeshormon" bezeichnet, spielt eine entscheidende Rolle bei sozialen Bindungen, Intimität und emotionaler Verbindung. In der Integrativen Atemarbeit lernen wir, wie Achtsamkeit und bewusste Atmung die Freisetzung von Oxytocin fördern können, was wiederum das Gefühl der Verbundenheit in unseren zwischenmenschlichen Beziehungen stärken kann.
-- **Melatonin und die Zirbeldrüse:** Die Zirbeldrüse, ein kleines Organ in unserem Gehirn, produziert Melatonin, das unseren Schlaf-Wach-Rhythmus reguliert. In der Integrativen Atemarbeit erkennen wir, wie eine ausgewogene Atmung und Entspannungstechniken dazu beitragen können, die Aktivität der Zirbeldrüse zu fördern und somit einen gesunden Schlaf zu unterstützen.

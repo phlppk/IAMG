@@ -1,5 +1,6 @@
-
-## Konzeption & Realität
+---
+title: Konzeption & Realität
+---
 Die Welt ist, **wie** Du sie siehst, hörst, empfindest... 
 
 Und dieses **WIE** wird bereits maßgeblich davon geprägt, in welchem Gebärmuttercocktail Du für 9 Monate mariniertest, wie Deine Geburt verlief und wie Du in den ersten Monaten und Jahren Deines Lebens beantwortet wurdest.
