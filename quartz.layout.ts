@@ -21,13 +21,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  // left: [
-  //   Component.PageTitle(),
-  //   Component.MobileOnly(Component.Spacer()),
-  //   Component.Search(),
-  //   Component.Darkmode(),
-  //   Component.DesktopOnly(Component.Explorer()),
-  // ],
+  left: [
+    // Component.PageTitle(),
+    // Component.MobileOnly(Component.Spacer()),
+    // Component.Search(),
+    // Component.Darkmode(),
+    // Component.DesktopOnly(Component.Explorer()),
+  ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
