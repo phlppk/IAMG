@@ -19,18 +19,18 @@ tags: []
 ## Informationen (wip)
 [[Nervensystem]], [[Atemtechniken/index|Atemtechniken]] & [[Körperübungen]]
 Regulation & [[Nervensystem]]
-### TBC
-Das Rad neuerfinden
-Ich-Konzept
-Nervensystemregulation
-Vagusnerv & Dorsaler Shutdown
-Melatonin & Morgenroutine
-Oxitozin, Dopamin, Serotonin
-### [[Aufklärung]]
-tetanie, hyperventilation
-adhs, stress
-konsumhunger
-zucker alkohol nikotin algorithmen (display)
+
+* Gefühle, Schlaf, Träumen
+* Das Rad neuerfinden
+* Ich-Konzept
+* Nervensystemregulation
+* Vagusnerv & Dorsaler Shutdown
+* Melatonin & Morgenroutine
+* Oxitozin, Dopamin, Serotonin
+* tetanie, hyperventilation
+* adhs, stress
+* konsumhunger
+* zucker alkohol nikotin algorithmen (display)
 ## I AM GAIA steh für...
 > [!info] Integratives Atem-Manifest - Geborgenheit & Autonomie im Atemfluss
 > 🌬️ Entdecke die Magie des Atmens! Auf Deiner Atem.Reise erforschst Du die harmonische Balance zwischen Deinem innerem Frieden und Deiner sich frei entfaltenden Lebenskraft, liebevoll begleitet & verbunden von Deinem Atem. 😌💪 
