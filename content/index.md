@@ -4,7 +4,6 @@ draft: false
 tags: []
 ---
 ![[bg.jpeg]]
-# Index
 [[Nervensystem]]
 [[Realität]]
 [[Atemtechniken/index|Atemtechniken]]
