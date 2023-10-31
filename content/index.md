@@ -9,6 +9,8 @@ tags: []
 [[Atemtechniken/index|Atemtechniken]]
 [[Atem & Pause]]
 [[Körperübungen]]
+[[Mental Health Toolkit]]
+
 ## Angebote
 * Luft & Liebe Flatrate - Dienstags online & Donnerstags Jurte für 80 € im Monat.
 * Atem & Pause - Online-Sitzungen Di - Do - Fr jeweils am Vor- & Nachmittag
