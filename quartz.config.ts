@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
     },
     baseUrl: "atem.reise",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian" ,".bkp"],
     defaultDateType: "created",
     theme: {
       typography: {
