@@ -1,0 +1,3 @@
+Geborgenheit ist ein tiefes Gefühl emotionaler Sicherheit und Wärme.
+
+**Etymologische Wurzel:** Das Wort "Geborgenheit" stammt aus dem Deutschen und leitet sich von "bergen" ab, was im Mittelhochdeutschen "schützen" oder "in Sicherheit bringen" bedeutet. Im Laufe der Zeit entwickelte sich die Bedeutung weiter zu einem allgemeineren Sinn von Schutz und emotionaler Sicherheit, was heute mit dem Begriff "Geborgenheit" verbunden ist.

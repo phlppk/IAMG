@@ -1,0 +1,3 @@
+Mitgefühl ist die Fähigkeit, die Emotionen anderer zu erkennen, zu verstehen und empathisch darauf zu reagieren.
+
+**Etymologische Wurzel:** Das Wort "Mitgefühl" setzt sich aus den deutschen Wörtern "mit" und "Gefühl" zusammen. "Mit" deutet auf eine Teilung oder gemeinsame Erfahrung hin, während "Gefühl" Emotionen oder Empfindungen bezeichnet. Etymologisch betrachtet bedeutet Mitgefühl also das Teilen oder Nachempfinden der Gefühle anderer Personen.

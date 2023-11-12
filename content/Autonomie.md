@@ -1,0 +1,3 @@
+Autonomie bezeichnet die Fähigkeit und das Recht, Selbstbestimmung über das eigene Handeln und Entscheidungen auszuüben.
+
+**Etymologische Wurzel:** Das Wort "Autonomie" kommt aus dem Griechischen, wobei "autos" für "selbst" und "nomos" für "Gesetz" steht. Es bedeutet also wörtlich "eigene Gesetze haben" oder "sich selbst regieren (& regulieren)", was auf die Grundidee der Selbstbestimmung und Unabhängigkeit hindeutet.

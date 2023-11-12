@@ -2,16 +2,17 @@
 title: Atem, Geburt & Lebensgestaltung
 ---
 #### Prinzipien
-* Geborgenheit & Autonomie
-* MitEinander + MitGefühl
+* [[Geborgenheit]] & [[Autonomie]]
+* [[MitEinander]] + [[MitGefühl]]
+* [[Lebensenergie & Breathwork]]
 #### Protokolle
-* Atem.Schule - Herz-Kohärenz & Nervensystem
+* Atem.Schule - Herz-Kohärenz & [[Nervensystem]]
 * Atem.Yoga - Sonnengruß & Nachtgebet
-* HubermannLabs - Mental Health Toolkit
+* HubermannLabs - [[Mental Health Toolkit]]
 #### Produkte
 * 2x Atmen in der Mondin
 * 4 Tage Oster-Wiedergeburt
-* 9 Monate Konsumfrei
+* [[9 Monate Konsumfrei]]
 * atem.guru Merch & Kalendarium
 ## Impressum
 * Philipp Paul Köhler
