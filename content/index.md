@@ -1,7 +1,7 @@
 ---
 title: Atem, Geburt & Lebensgestaltung
 ---
-![[DALL·E 2023-11-12 14.25.16 - Create a wide cinematic hero image for a website banner, depicting breathwork therapy in a yurt setting with symbolic elements in the background. In t.png]]
+![[header_32.png]]
 ### Prinzipien
 * [[Geborgenheit]] & [[Autonomie]]
 * [[MitEinander]] + [[MitGefühl]]
