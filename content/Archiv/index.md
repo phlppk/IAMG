@@ -97,7 +97,7 @@ In jeder Phase reflektiert die Entwicklung der KI die sich wandelnde Beziehung u
 [[Nervensystem]]
 [[Realität]]
 [[Atemtechniken/index|Atemtechniken]]
-[[Atem & Pause]]
+[[Atempause]]
 [[Körperübungen]]
 [[Mental Health Toolkit]]
 
