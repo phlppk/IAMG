@@ -3,6 +3,12 @@ title: I AM GAIA
 draft: false
 tags: []
 ---
+Atem, Geburtsthema, Lebensgestaltung
+![[philipp.jpg]]
+
+
+
+
 ![[DALL·E 2023-11-11 11.45.25 - An infographic depicting the year 2048 with key aspects of global progress. The graphic includes sections for health of the Earth (sustainable practic.png]]
 
 In was für eine Welt möchtest Du Leben?
