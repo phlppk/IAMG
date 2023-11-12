@@ -1,20 +1,5 @@
-## "Therapy without breath is not an elegant solution"
-###### – Tilke Platteel-Deur
-
-## Gliederung
-
-1. [Wo fange ich an?](https://koehler-philipp.de/breathwork-lebensenergie/#wo-fange-ich-an)
-    1. [Breathwork, Atemtherapie, Pranayama...](https://koehler-philipp.de/breathwork-lebensenergie/#breathwork-atemtherapie-pranayama)
-    2. [Energielevel & Widerstände](https://koehler-philipp.de/breathwork-lebensenergie/#energielevel-amp-widerstande)
-    3. [Hin & durch - das Unbewusste](https://koehler-philipp.de/breathwork-lebensenergie/#hin-amp-durch-das-unbewusste)
-2. [Wie ist der Ablauf?](https://koehler-philipp.de/breathwork-lebensenergie/#wie-ist-der-ablauf)
-    1. [Ja zur Lebensenergie](https://koehler-philipp.de/breathwork-lebensenergie/#ja-zur-lebensenergie)
-    2. [Das Unbekannte - Entscheidung & Konsequenz](https://koehler-philipp.de/breathwork-lebensenergie/#das-unbekannte-entscheidung-amp-konsequenz)
-    3. [Mit dem Widerstand atmen & sein](https://koehler-philipp.de/breathwork-lebensenergie/#mit-dem-widerstand-atmen-amp-sein)
-3. [Ruhig & Entspannt](https://koehler-philipp.de/breathwork-lebensenergie/#ruhig-amp-entspannt)
-    1. [Einfach machen!](https://koehler-philipp.de/breathwork-lebensenergie/#einfach-machen)
-    2. [Bewusst machen](https://koehler-philipp.de/breathwork-lebensenergie/#bewusst-machen)
-    3. [Bewusst Genießen](https://koehler-philipp.de/breathwork-lebensenergie/#bewusst-geniesen)
+    "Therapy without breath is not an elegant solution"
+    – Tilke Platteel-Deur
 
 Falls Du noch nie bewusst geatmet hast, dann lass uns ganz einfach damit beginnen: indem Du bewussten atmest. Verbunden, ein und aus. So lernst Du mit ein wenig Übung Lebensenergie zu steuern – der Energie, aus der Du Deine Lebenskraft schöpfst.
 
