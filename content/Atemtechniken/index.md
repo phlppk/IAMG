@@ -1,6 +1,3 @@
----
-title: Atemgrundlagen
----
 > [!info]- Kohärentes Atmen
 > 5.5 BPM Einatmen
 > 5.5 BPM Ausatmen
